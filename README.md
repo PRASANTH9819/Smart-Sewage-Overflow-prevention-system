@@ -23,8 +23,9 @@ The **Smart Sewage Overflow Prevention System** is an IoT-based solution designe
 - **GSM module (SIM900A)** for SMS and call alerts
 - **Jumper wires & power supply**
 
-## Circuit Diagram
-(Include a schematic diagram or Fritzing diagram here if possible)
+## Demo Video
+- [![Watch the demo video](https://github.com/PRASANTH9819/Smart-Sewage-Overflow-prevention-system/releases/download/v1.0/smart_sewage_demo.mp4)
+
 
 ## Installation & Setup
 1. **Hardware Setup:**
