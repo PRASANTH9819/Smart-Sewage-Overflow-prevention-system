@@ -51,12 +51,6 @@ The **Smart Sewage Overflow Prevention System** is an IoT-based solution designe
 - Use of AI/ML to predict overflow patterns.
 - Battery backup for uninterrupted operation.
 
-## Contribution
-Feel free to contribute to this project by submitting pull requests or reporting issues.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any queries, feel free to reach out via GitHub issues or email.
 
